@@ -14,4 +14,4 @@
 <img src="https://github.com/user-attachments/assets/e664381b-6847-4f02-b45d-ab1a3236297c" width=600>
 
 # 최종 구현 시뮬레이터(gif)
-<img src="" width=600>
+<img src="https://github.com/user-attachments/assets/418a0ed9-13ba-42fb-9df7-6c9c75fac05b" width=600>
